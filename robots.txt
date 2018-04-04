@@ -1,0 +1,2 @@
+User-agent: * ZYE.CC
+Disallow: / 
